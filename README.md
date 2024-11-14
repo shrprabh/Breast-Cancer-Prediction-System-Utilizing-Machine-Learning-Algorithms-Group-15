@@ -33,7 +33,7 @@ To explore the data further, we use the seaborn library to create a [heatmap](ht
 
 ## Relationship between Features and Diagnosis
 
-The dataset contains 30 features, including the diagnosis of the tumor [malignant or benign](https://github.com/shrprabh/Breast-Cancer-Prediction-Guided-Proejct/blob/main/Images/Cancer_Diagnosis_Plot.png). To understand the relationship between the different features and the diagnosis of the tumor, we use a bar plot to analyze the data and compare the distribution of malignant and benign tumors.
+The dataset contains 30 features, including the diagnosis of the tumor [malignant or benign](https://github.com/shrprabh/Breast-Cancer-Prediction-System-Utilizing-Machine-Learning-Algorithms-Group-15/blob/main/Images/Cancer_Diagnosis_Plot.png). To understand the relationship between the different features and the diagnosis of the tumor, we use a bar plot to analyze the data and compare the distribution of malignant and benign tumors.
 The bar plot shows that some features, such as the radius of the tumor, are more indicative of malignant tumors than benign tumors.
 
 ## Splitting the Dataset
