@@ -4,10 +4,12 @@
 
 Breast cancer is one of the most common forms of cancer among women worldwide. Early detection and accurate diagnosis of breast cancer are crucial for effective treatment and recovery. In this project, my aim is to develop a machine learning model that can predict the diagnosis of breast cancer using different algorithms. The project is done in Google Colab using libraries such as:
 
-- `numpy`
-- `pandas`
-- `matplotlib`
-- `seaborn`
+- `numpy==1.26.4`
+- `pandas==2.2.2`
+- `matplotlib==3.8.4`
+- `seaborn==0.13.2`
+
+### python version 3.12.4
 
 ![Visualizations](https://github.com/shrprabh/Breast-Cancer-Prediction-System-Utilizing-Machine-Learning-Algorithms-Group-15/blob/main/Images/Final_Results.jpg)
 
