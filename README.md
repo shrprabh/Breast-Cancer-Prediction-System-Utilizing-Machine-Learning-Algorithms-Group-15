@@ -71,8 +71,8 @@ This project uses the Wisconsin Diagn Breast Cancer (WDBC) dataset, which was ob
 
 | Name                     | Email                     | ID        |
 | ------------------------ | ------------------------- | --------- |
+| Shreyas Prabhakar        | shrprabh@ttu.edu          | R11894057 |
 | Rahul Chowdary Maddineni | ramaddin@ttu.edu          | R11976773 |
 | Sathwik Tatiparthi       | statipar@ttu.edu          | R11976772 |
 | Teja Sri Dharma Reddy    | Vanukuri tvanukur@ttu.edu | R11974522 |
-| Shreyas Prabhakar        | shrprabh@ttu.edu          | R11894057 |
 | Muhammad Talha Jabbar    | mujabbar@ttu.edu          | R11914715 |
